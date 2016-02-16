@@ -1,0 +1,6 @@
+name: Hub
+version: 0.1
+author: Wullverin
+description: Universal Hub Interface mit Scoreboard und Bars
+
+main: at.wullverin.hub.main.main
